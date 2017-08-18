@@ -10,11 +10,11 @@
 
 <span id="Sponsor"></span>
 ## 赞助我/Sponsor
-&nbsp;&nbsp;&nbsp;&nbsp;如果我的文章对您有帮助，欢迎资助我一些钱，来改变我穷困的生活。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;If my article is helpful to you, please help me with some money to change my poor life.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Если моя статья вам полезна, пожалуйста, помогите мне с некоторыми деньгами, чтобы изменить мою бедную жизнь.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Si mon article vous est utile, aidez-moi avec de l'argent pour changer ma vie.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;私の記事があなたに役立つなら、私の貧しい人生を変えるお金で私を助けてください。
+&nbsp;&nbsp;&nbsp;&nbsp;如果我的文章或代码或其他方面对您有帮助，欢迎资助我一些钱，来改变我穷困的生活。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If my article or code or other side is helpful to you, please help me with some money to change my poor life.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Si mon article ou votre code ou votre autre partie vous sont utiles, aidez-moi avec de l'argent pour changer ma vie.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Если моя статья или код или другая сторона полезны для вас, пожалуйста, помогите мне с некоторыми деньгами, чтобы изменить мою бедную жизнь.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;私の記事、コード、または他の面があなたに役立つ場合は、私の貧しい人生を変えるためにお金を手伝ってください。。
 
 <center class="AsuraDongSponsorImages">
     <img src="wechat.JPG" width="400" height="400"/>
@@ -31,6 +31,7 @@
 
 <span id="Contact"></span>
 ## 联系我/Contact
+- GitHuv：<https://github.com/AsuraDong/>
 - 手机/Phone：13602658570
 - Email：<xiaochiyijiu@163.com> 
 - QQ：2592324965
