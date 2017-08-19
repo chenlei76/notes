@@ -1,12 +1,29 @@
 # 关于我/Read Me
 
 ## 快速开始/Quick Start
-- **[赞助我/Sponsor](#赞助我-sponsor)**
+- **[声明/Statement](#声明-statement)**
 - **[关注我/Fork](#关注我-fork)**
 - **[联系我/Contact](#联系我-contact)**
-- **[声明/Statement](#声明-statement)**
+- **[赞助我/Sponsor](#赞助我-sponsor)**
 - **[目录/Category](#目录-category)**
 
+
+## 声明 Statement
+&nbsp;&nbsp;&nbsp;&nbsp;这个仓库存放着我的心得和笔记，本着分享的精神进行交流。如果在引用的时候，忘记声明出处，请原作者第一时间联系我。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;欢迎引用，但劳烦指明出处，O(∩_∩)O谢谢。
+
+## 关注我 Fork
+- [GitHub](https://github.com/login?return_to=%2Fjiangzihao%3Ftab%3Dfollowers)
+- [CSDN](http://blog.csdn.net/asuradong)
+- [博客园/cnblogs](http://www.cnblogs.com/AsuraDong/)
+- [微博](http://weibo.com/AsuraDong)
+
+## 联系我 Contact
+- GitHuv：<https://github.com/AsuraDong/>
+- 手机/Phone：13602658570
+- Email：<xiaochiyijiu@163.com> 
+- QQ：2592324965
+- 微信/WeChat：IT_xxx
 
 ## 赞助我 Sponsor
 &nbsp;&nbsp;&nbsp;&nbsp;如果我的文章或代码或其他方面对您有帮助，欢迎资助我一些钱，来改变我穷困的生活。<br>
@@ -19,27 +36,6 @@
     <img src="wechat.JPG" width="400" height="400"/>
     <img src="zhifubao.JPG" width="400" height="400"/>
 </p>
-
-
-## 关注我 Fork
-- [GitHub](https://github.com/login?return_to=%2Fjiangzihao%3Ftab%3Dfollowers)
-- [CSDN](http://blog.csdn.net/asuradong)
-- [博客园/cnblogs](http://www.cnblogs.com/AsuraDong/)
-- [微博](http://weibo.com/AsuraDong)
-
-
-## 联系我 Contact
-- GitHuv：<https://github.com/AsuraDong/>
-- 手机/Phone：13602658570
-- Email：<xiaochiyijiu@163.com> 
-- QQ：2592324965
-- 微信/WeChat：IT_xxx
-
-
-## 声明 Statement
-&nbsp;&nbsp;&nbsp;&nbsp;这个仓库存放着我的心得和笔记，本着分享的精神进行交流。如果在引用的时候，忘记声明出处，请原作者第一时间联系我。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;欢迎引用，但劳烦指明出处，O(∩_∩)O谢谢。
-
 
 ## 目录 Category
 
