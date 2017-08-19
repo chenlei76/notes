@@ -15,10 +15,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Если моя статья или код или другая сторона полезны для вас, пожалуйста, помогите мне с некоторыми деньгами, чтобы изменить мою бедную жизнь.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;私の記事、コード、または他の面があなたに役立つ場合は、私の貧しい人生を変えるためにお金を手伝ってください。。
 
-<center class="AsuraDongSponsorImages">
+<p align="center">
     <img src="wechat.JPG" width="400" height="400"/>
     <img src="zhifubao.JPG" width="400" height="400"/>
-</center>
+</p>
 
 
 ## 关注我 Fork
