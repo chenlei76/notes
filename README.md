@@ -55,7 +55,8 @@
 - [Git：分支的创建、合并、管理和删除](https://github.com/AsuraDong/Blog/tree/master/Articles/Git/Git：分支的创建、合并、管理和删除.md)
 - [GitHub：多人协作下的分支处理](https://github.com/AsuraDong/Blog/tree/master/Articles/Git/GitHub：多人协作下的分支处理.md)
 - [Git下的标签](https://github.com/AsuraDong/Blog/tree/master/Articles/Git/Git下的标签.md)
-
+- [Git中文乱码解决](https://github.com/AsuraDong/Blog/blob/Dev/Articles/Git/Git%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E8%A7%A3%E5%86%B3.md)
+- [获取、更新和删除指定分支](https://github.com/AsuraDong/Blog/blob/Dev/Articles/Git/%E8%8E%B7%E5%8F%96%E3%80%81%E6%9B%B4%E6%96%B0%E5%92%8C%E5%88%A0%E9%99%A4%E6%8C%87%E5%AE%9A%E5%88%86%E6%94%AF.md)
 
 ### Linux
 - [后台工具screen](https://github.com/AsuraDong/Blog/tree/master/Articles/Linux/后台工具screen.md)
