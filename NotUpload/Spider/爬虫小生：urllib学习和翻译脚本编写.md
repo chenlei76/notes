@@ -47,6 +47,7 @@
 1. 关于data:<br>
     > 官方文档：**data must be a bytes object specifying additional data to send to the server, or None if no such data is needed.** Currently HTTP requests are the only ones that use data; the HTTP request will be a POST instead of a GET when the data parameter is provided. data should be a buffer in the standard application/x-www-form-urlencoded format. The **urllib.parse.urlencode()** function takes a mapping or sequence of 2-tuples and returns an ASCII string in this format. **It should be encoded to bytes before being used as the data parameter.**
     <br>代码示例如下所示<br>
+    
     ```python
         data={}
         data['type']='AUTO'

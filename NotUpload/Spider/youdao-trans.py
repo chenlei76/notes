@@ -4,6 +4,7 @@ import json
 import random
 import hashlib
 import time
+import random
 
 languages = {
     "中文":"zh-CHS",\
@@ -64,15 +65,16 @@ def translate(url=None,data=None,header=None,From=None,To=None):
         response = urllib.request.urlopen(req)
         html = response.read().decode("utf-8") # 得到应答，并且解码
         # print(html) #先看一下格式，再决定用什么方法
-
         result = json.loads(html)['translateResult'][0][0]['tgt']
         try:
             smartResult = json.loads(html)["smartResult"]["entries"]
+            otherResult = [res.strip("\n").strip("\r") for res in smartResult if len(res) and res.strip("\n").strip("\r")!=result]
         except Exception as error:
             print("<<< 翻译后的内容是：",result)
         else:
             print("<<< 翻译后的内容是：", result)
-            print("<<< 其他的翻译结果是："," ".join(smartResult))
+            if len(otherResult):
+                print("<<< 其他的翻译结果是："," ".join(otherResult))
 
 if __name__=='__main__':
     print("<<< 目前支持以下几种语言的翻译：")
@@ -86,6 +88,7 @@ if __name__=='__main__':
 
     while True:
         translate(URL,DataForm,HEADER,From,To)
+        time.sleep(random.randint(1,5))
 
     input(">>> 按任意键退出")
 
