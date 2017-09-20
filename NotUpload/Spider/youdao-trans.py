@@ -88,7 +88,7 @@ if __name__=='__main__':
 
     while True:
         translate(URL,DataForm,HEADER,From,To)
-        time.sleep(random.randint(1,5))
+        # time.sleep(random.randint(1,5))
 
     input(">>> 按任意键退出")
 
