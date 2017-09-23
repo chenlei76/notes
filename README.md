@@ -48,6 +48,7 @@
 - [数据加载存储和文件格式](https://github.com/AsuraDong/Blog/tree/master/Articles/机器学习/数据加载存储和文件格式.md)
 - [数据规整化：清理、转换、合并、重塑](https://github.com/AsuraDong/Blog/tree/master/Articles/机器学习/数据规整化：清理、转换、合并、重塑.md)
 - [numpy数组、向量、矩阵运算](https://github.com/AsuraDong/Blog/tree/master/Articles/机器学习/numpy数组、向量、矩阵运算.md)
+- [windows下安装scikit_learn](https://github.com/AsuraDong/Blog/tree/master/Articles/机器学习/windows下安装scikit_learn.md)
 
 ### Git
 - [Git：文件操作和历史回退](https://github.com/AsuraDong/Blog/tree/master/Articles/Git/Git：文件操作和历史回退.md)
@@ -148,10 +149,9 @@
 - [python时间处理](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/python时间处理.md)
 - [pandas处理各类表格数据](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/pandas处理各类表格数据.md)
 
+- [三神器-迭代器、生成器和装饰器](https://github.com/AsuraDong/Blog/tree/master/Articles/三神器-迭代器、生成器和装饰器)
 
-
-
-
+- [玩转python类](https://github.com/AsuraDong/Blog/tree/master/Articles/玩转python类)
 
 
 
