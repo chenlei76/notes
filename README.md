@@ -149,9 +149,9 @@
 - [python时间处理](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/python时间处理.md)
 - [pandas处理各类表格数据](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/pandas处理各类表格数据.md)
 
-- [三神器-迭代器、生成器和装饰器](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/三神器-迭代器、生成器和装饰器)
+- [三神器-迭代器、生成器和装饰器](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/三神器-迭代器、生成器和装饰器.md)
 
-- [玩转python类](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/玩转python类)
+- [玩转python类](https://github.com/AsuraDong/Blog/tree/master/Articles/Python杂谈/玩转python类.md)
 
 
 
