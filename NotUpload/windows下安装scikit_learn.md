@@ -6,6 +6,6 @@
 
 3. 搜索scikit_learn，同上。
 
-![](windows下安装scikit_learn/1.png)
+![](windows下安装scikit_learn/2.png)
 
 4. 用命令行进入下载目录，记得给**管理员权限**。然后执行 `py -3/-2 -m pip install 包的名字`即可。**请先安装numpy**
