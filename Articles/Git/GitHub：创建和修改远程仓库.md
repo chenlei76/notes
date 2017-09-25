@@ -7,9 +7,9 @@
 
 
 ## 克隆远程仓库
-切到工作目录下，执行`git clone https://github.com/AsuraDong/learngit` 就可以克隆到本地了。
+切到工作目录下，执行`git clone https://github.com/AsuraDong/learngit.git` 就可以克隆到本地了。
 
-这时候文件名默认是仓库名字，如果想改名字可以：`git clone https://github.com/AsuraDong/learngit learngit_2`，即在后面加一个参数做文件名字。
+这时候文件名默认是仓库名字，如果想改名字可以：`git clone https://github.com/AsuraDong/learngit.git learngit_2`，即在后面加一个参数做文件名字。
 
 
 ## 修改远程仓库
